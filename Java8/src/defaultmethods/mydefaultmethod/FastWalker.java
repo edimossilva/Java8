@@ -1,4 +1,4 @@
-package defaultmethods;
+package defaultmethods.mydefaultmethod;
 
 public class FastWalker implements Walker {
 
