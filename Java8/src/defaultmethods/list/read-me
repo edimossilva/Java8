@@ -1,0 +1,4 @@
+functional interface => An interface that only has one abstract method.
+default method => Is a concrete method implemented in an interface.
+Lambda => An expression able to be passed as params for methods that can receive functional interfaces as params
+Reference Method => Is a different way to write lambda (functional interfaces) 
